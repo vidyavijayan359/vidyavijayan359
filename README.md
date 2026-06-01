@@ -37,3 +37,4 @@ Welcome to my GitHub space! I hold an MSc in Statistics and love bridging the ga
 > — *W. Edwards Deming (Famous American Statistician & Professor)*
 >
 > **The Meaning:** Deming said this to emphasize that while faith and beliefs have their place, professional and scientific decisions should never be based on mere opinions or guesswork. In research, policy-making, and analytics, every claim must be backed by empirical evidence and hard numbers.
+![Profile Views](https://komarev.com/ghpvc/?username=vidyavijayan359&color=blue&style=flat-square)
